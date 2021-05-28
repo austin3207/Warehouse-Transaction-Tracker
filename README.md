@@ -11,13 +11,16 @@ a text file and stored in an array as Strings. Each String is
 then split into the 3 pieces of information needed for each
 transaction(Purchase/Sell, Part ID, Number of Parts).
 
-Basic User Experience
+
+Basic User Experience:
+
 Step 1.
 The initial state is output to the console. Includes the warehouse name and current
 inventory.
 
 Step 2.
 Each transaction is output to the console and includes which warehouse was chosen.
+The part ID and number of parts are not included in this output.
 
 Step 3.
 Outputs the final inventory of each Warehouse.
